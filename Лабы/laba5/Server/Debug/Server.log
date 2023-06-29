@@ -1,0 +1,3 @@
+﻿  Server.cpp
+F:\.Уник\4 сем\ПСП\Лабы\laba5\Server\Server.cpp(45,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Server.vcxproj -> F:\.Уник\4 сем\ПСП\Лабы\laba5\Server\Debug\Server.exe

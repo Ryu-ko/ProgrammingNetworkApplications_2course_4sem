@@ -1,0 +1,19 @@
+﻿Сборка начата 18.04.2023 18:26:02.
+Уровень детализации журнала: Normal.     1>Проект "D:\Уник\SEM_2\Программирование сетевых приложений экзамен\Laba8\Client\Client\Client.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Client.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Client.vcxproj -> D:\Уник\SEM_2\Программирование сетевых приложений экзамен\Laba8\Client\Debug\Client.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Client.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Client.tlog\Client.lastbuildstate".
+     1>Сборка проекта "D:\Уник\SEM_2\Программирование сетевых приложений экзамен\Laba8\Client\Client\Client.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.07

@@ -1,0 +1,5 @@
+﻿  ServerT.cpp
+F:\.Уник\4 сем\ПСП\Лабы\ServerT\ServerT\ServerT.cpp(78,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+F:\.Уник\4 сем\ПСП\Лабы\ServerT\ServerT\ServerT.cpp(153): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+F:\.Уник\4 сем\ПСП\Лабы\ServerT\ServerT\ServerT.cpp(111,7): warning C4101: t: неиспользованная локальная переменная
+  ServerT.vcxproj -> F:\.Уник\4 сем\ПСП\Лабы\ServerT\x64\Debug\ServerT.exe

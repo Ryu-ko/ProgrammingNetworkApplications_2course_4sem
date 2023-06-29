@@ -1,0 +1,4 @@
+﻿  Server.cpp
+F:\.Уник\4 сем\ПСП\Лабы\laba4\Broadcast\Server\Server.cpp(100): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+F:\.Уник\4 сем\ПСП\Лабы\laba4\Broadcast\Server\Server.cpp(135): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Server.vcxproj -> F:\.Уник\4 сем\ПСП\Лабы\laba4\Broadcast\x64\Debug\Server.exe

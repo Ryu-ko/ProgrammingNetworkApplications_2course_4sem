@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\.Уник\4 сем\ПСП\Лабы\laba5\ClientC\ClientC\ClientC\Source.cpp(35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+F:\.Уник\4 сем\ПСП\Лабы\laba5\ClientC\ClientC\ClientC\Source.cpp(55,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ClientC.vcxproj -> F:\.Уник\4 сем\ПСП\Лабы\laba5\ClientC\ClientC\x64\Debug\ClientC.exe
